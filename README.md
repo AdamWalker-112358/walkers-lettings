@@ -37,6 +37,7 @@ Odyssey Theme is a modern theme/starter for a business or startup's marketing we
 - ✅ **Performant Local Fonts Setup**
 - ✅ **Contact Forms Setup for Netlify, Formspree, Formspark, etc.**
 - ✅ **A package of ready-to-use UI components**
+- ✅ **A package of ready-to-use Form components**
 
 
 ## Demo
